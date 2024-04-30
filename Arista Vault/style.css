@@ -1,0 +1,35 @@
+CSS
+header {
+  background-color: #fff;  /* White background color */
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  width: 150px; /* Adjust width as needed */
+  height: auto;
+}
+
+nav {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+  margin-left: 30px;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+nav a:hover {
+  color: #999;
+}
