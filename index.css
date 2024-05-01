@@ -366,6 +366,7 @@
     margin-right: 400px;
     width: 400px;
     font-size: xx-large;
+    /* margin-top: 340px; */
 }
 
 .feature-info4 p {
@@ -397,7 +398,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    /* margin-top: -25px; */
+    margin-top: -84px;
     margin-left:230px;
 }
 
