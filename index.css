@@ -107,6 +107,7 @@
 
 .feature-icon img {
     height: 60px; /* Adjust size as needed */
+    margin-top: -50px;
 }
 
 .feature-info h2 {
@@ -156,6 +157,7 @@
 
 .feature-icon1 {
     margin-right: 20px;
+    margin-top: -50px;
 }
 
 .feature-icon1 img {
@@ -214,6 +216,7 @@
 
 .feature-icon2 img {
     height: 60px; /* Adjust size as needed */
+    margin-top: -90px;
 }
 
 .feature-info2 h2 {
@@ -268,6 +271,7 @@
 
 .feature-icon3 img {
     height: 60px; /* Adjust size as needed */
+    margin-top: -100px;
 }
 
 .feature-info3 h2 {
