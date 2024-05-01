@@ -409,12 +409,15 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    /* margin-top: -25px; */
-    margin-left:230px;
+    margin-top: 105px;
+    margin-right:500px;
 }
 .feature-illustration-box5 img {
     max-width: 100%;
-    height: auto;
+    height:auto;
+    /* width: 220px; */
+    margin-top: -800px;
+    margin-right: 72px;
 }
 .feature-illustration-box4 img {
     max-width: 100%;
