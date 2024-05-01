@@ -72,12 +72,15 @@
 }
 
 .icon-ring {
-    background-image: url('ringi-icon.png');
-    color: #7bdbf3;
+    background-image: url('notify-removebg-preview.png');
+    color: #0493b7;
+    margin-left: 270px;
+    margin-top: -14px;
 }
 
 .icon-location {
-    background-image: url('location-icon.png');
+    background-image: url('location.png');
+    margin-left: 270px;
 }
 
 .features-container {
@@ -444,6 +447,7 @@
 
 body {
     font-family: Arial, sans-serif;
+    font-size:16px;
     margin: 0;
     padding: 0;
 }
